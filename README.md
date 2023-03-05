@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hi there, I'm Harry 👋
+
+- 👨‍💻 I'm currently working as a Junior Software Developer at Team RH Fitness, developing backend systems in TypeScript.
+- 🌱 I'm currently learning Kubernetes and Go.
+- 📫 How to reach me: https://www.linkedin.com/in/harryjamesuk/
+- 😄 Pronouns: he/him
 
 <!--
 **harryjamesuk/harryjamesuk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
