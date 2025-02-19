@@ -1,6 +1,6 @@
 ### Hi there, I'm Harry 👋
 
-- 👨‍💻 I'm currently working as a Junior API Engineer at Team RH Fitness, developing backend systems in TypeScript.
+- 👨‍💻 I'm currently working as an API Engineer at Team RH Fitness, developing backend systems in TypeScript.
 - 🌱 I'm currently learning Kubernetes and Go.
 - ⏳ Technologies I'm interested in learning in the future: GraphQL and tRPC.
 - 📫 How to reach me: https://www.linkedin.com/in/harryjamesuk/
